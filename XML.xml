@@ -1,0 +1,25 @@
+<?xml version="1.0"?>
+<ArrayOfPoint xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Point>
+    <X>7</X>
+    <Y>4</Y>
+  </Point>
+  <Point xsi:type="Point3D">
+    <X>6</X>
+    <Y>1</Y>
+    <Z>6</Z>
+  </Point>
+  <Point xsi:type="Point3D">
+    <X>1</X>
+    <Y>1</Y>
+    <Z>9</Z>
+  </Point>
+  <Point>
+    <X>8</X>
+    <Y>5</Y>
+  </Point>
+  <Point>
+    <X>7</X>
+    <Y>3</Y>
+  </Point>
+</ArrayOfPoint>
